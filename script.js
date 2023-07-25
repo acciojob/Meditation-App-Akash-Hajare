@@ -1,4 +1,3 @@
-//your JS code here. If required.
 const app = document.getElementById('app');
 const videoContainer = document.querySelector('.vid-container');
 const video = document.getElementById('video');
